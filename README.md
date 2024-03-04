@@ -1,1 +1,9 @@
 # CS230-Journal
+
+A client known as The Gaming Room wanted to develop a web-based game that is based on their current game, Draw It or Lose It. They would like it to serve multiple platforms rather than solely on their current availability, Android. The client has four software requirements: one or more teams should be allowed, each team can have multiple players, game and team names must be unique to allow users to check whether a name is in use when choosing a team name, and only one instance of the game can exist in memory at any given time. 
+
+The table I filled out for each option for the software (Mac, Linux, Windows, and Mobile Devices) was completed with the requirements in mind. There was perspective on the server side, client side, and development tools. With all of this information, the client can see why I recommended the option I did. The domain model and the explanation for it helped me understand the mapping of the code. However, if I could revise part of the document, it would be the recommendation section. I believe it would have been more convincing if I compared each section with the other options that might be in the running to solidify my recommendation. 
+
+I considered the fact that it is served on multiple platforms and the storage for the library of images. Without the proper storage and compatibility, the game would not run smoothly. It is important to consider the user needs because without their satisfaction, they will not purchase the game. Without sales, the client will not be happy with the product. It will also reflect poorly on the client because it is their name that most users will pay attention to and remember. 
+
+In the future, I will create a document similar to the one attached to understand what is required by the client and the pros and cons of using each operating system to find the best one for the product.
